@@ -6,3 +6,10 @@ This sketch is about Fields and Agents. The flowField class in the sketch linked
  -Field class from Daniel Shiffman.
  
  more at : http://radical-reaction-ad.blogspot.it/2015/11/field-pathfinding.html
+ 
+  Libraries needed:
+ 
+ Toxiclibs
+ ConstrolP5
+ 
+ Code written for Processing 2.0
