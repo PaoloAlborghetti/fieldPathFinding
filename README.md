@@ -4,3 +4,5 @@ This sketch is about Fields and Agents. The flowField class in the sketch linked
 
  References : 
  -Field class from Daniel Shiffman.
+ 
+ more at : http://radical-reaction-ad.blogspot.it/2015/11/field-pathfinding.html
